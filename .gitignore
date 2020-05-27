@@ -2,3 +2,9 @@
 elm-stuff
 # elm-repl generated files
 repl-temp-*
+
+# yarn@berry generated files
+.yarn/*
+!.yarn/releases
+!.yarn/plugins
+.pnp.*

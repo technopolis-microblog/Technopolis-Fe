@@ -1,0 +1,9 @@
+{
+  "name": "technopolis-frontend",
+  "devDependencies": {
+    "elm-test": "^0.19.1-revision2"
+  },
+  "dependencies": {
+    "parcel-bundler": "^1.12.4"
+  }
+}
